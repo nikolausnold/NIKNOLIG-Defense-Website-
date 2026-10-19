@@ -14,6 +14,9 @@
     <string name="support_email_subject">Technical support request – NIKNOLIG</string>
     <string name="support_email_body">Please describe your technical issue. Do not send passwords or payment details.</string>
     <string name="support_email_unavailable">No email app found on this device.</string>
+    <string name="website_url">https://nikolausnold.github.io/NIKNOLIG/</string>
+    <string name="website_button">Visit the official website</string>
+    <string name="website_unavailable">No browser found on this device.</string>
     <string name="demo_notice">Preview — no device connection, security approval, or production feature is available yet.</string>
     <string name="learning_profile_button">Learning profile and privacy</string>
     <string name="learning_profile_title">Learning profile</string>

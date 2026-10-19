@@ -582,6 +582,37 @@ h2 {
     letter-spacing: 0.12em;
 }
 
+.download-panel {
+    display: grid;
+    grid-template-columns: 1fr 0.78fr;
+    align-items: center;
+    gap: 35px;
+    padding: 38px;
+    border: 1px solid var(--line);
+    border-radius: 5px;
+    background: rgba(19, 26, 23, 0.8);
+}
+
+.download-panel .eyebrow {
+    margin-bottom: 15px;
+    color: var(--accent);
+}
+
+.download-panel h2 {
+    font-size: clamp(38px, 4.5vw, 54px);
+}
+
+.download-panel p {
+    max-width: 540px;
+    margin-bottom: 0;
+    color: var(--muted);
+    font-size: 14px;
+}
+
+.download-actions .button {
+    margin-bottom: 16px;
+}
+
 .contact {
     display: grid;
     grid-template-columns: 0.8fr 1.2fr;
@@ -696,6 +727,11 @@ h2 {
     .contact {
         grid-template-columns: 1fr;
         gap: 35px;
+    }
+
+    .download-panel {
+        grid-template-columns: 1fr;
+        gap: 25px;
     }
 
     .principles-heading {
@@ -830,6 +866,10 @@ h2 {
     .contact-content {
         grid-template-columns: 1fr;
         gap: 26px;
+    }
+
+    .download-panel {
+        padding: 28px 23px;
     }
 
     .site-footer {

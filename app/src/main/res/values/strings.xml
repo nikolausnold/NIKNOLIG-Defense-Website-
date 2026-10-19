@@ -14,6 +14,9 @@
     <string name="support_email_subject">Technische Supportanfrage – NIKNOLIG</string>
     <string name="support_email_body">Bitte beschreibe dein technisches Problem. Sende keine Passwörter oder Zahlungsdaten.</string>
     <string name="support_email_unavailable">Keine E-Mail-App auf diesem Gerät gefunden.</string>
+    <string name="website_url">https://nikolausnold.github.io/NIKNOLIG/</string>
+    <string name="website_button">Offizielle Website besuchen</string>
+    <string name="website_unavailable">Kein Browser auf diesem Gerät gefunden.</string>
     <string name="demo_notice">Vorschau – noch keine Geräteverbindung, Sicherheitsfreigabe oder produktive Funktion.</string>
     <string name="learning_profile_button">Lernprofil und Datenschutz</string>
     <string name="learning_profile_title">Lernprofil</string>

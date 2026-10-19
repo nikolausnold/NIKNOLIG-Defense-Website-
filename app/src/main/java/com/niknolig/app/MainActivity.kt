@@ -17,8 +17,22 @@ class MainActivity : Activity() {
             openTechnicalSupportEmail()
         }
 
+        findViewById<Button>(R.id.website_button).setOnClickListener {
+            openWebsite()
+        }
+
         findViewById<Button>(R.id.learning_profile_button).setOnClickListener {
             startActivity(Intent(this, LearningProfileActivity::class.java))
+        }
+    }
+
+    private fun openWebsite() {
+        val websiteIntent = Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.website_url)))
+
+        try {
+            startActivity(websiteIntent)
+        } catch (_: ActivityNotFoundException) {
+            Toast.makeText(this, R.string.website_unavailable, Toast.LENGTH_LONG).show()
         }
     }
 
