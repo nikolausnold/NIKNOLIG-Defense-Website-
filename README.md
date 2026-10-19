@@ -49,9 +49,10 @@ Die NIKNOLIG-Hauptwebsite ist
 <https://nikolausnold.github.io/NIKNOLIG-Defense-Website-/> erreichbar. Beide
 Websites sollen sichtbar aufeinander verweisen. Die Android-App verlinkt zur
 NIKNOLIG-Hauptwebsite; diese Defense-Website kann eine installierte App öffnen.
-App-Downloads werden ausschließlich auf der jeweils zugehörigen offiziellen Website
-angeboten. Für NIKNOLIG ist derzeit keine signierte Release-APK verfügbar, daher
-wird die Vorschau-App nicht zum Download bereitgestellt.
+Die freigegebene NIKNOLIG-App soll auf ihrer offiziellen Website zum Download
+angeboten werden und später zusätzlich in den App-Stores verfügbar sein. Derzeit
+gibt es keine signierte Release-APK; die Vorschau-App wird nicht zum Download
+bereitgestellt.
 
 Vor einer öffentlichen Veröffentlichung müssen die rechtlich erforderlichen
 Betreiber- und Datenschutzangaben ergänzt und geprüft werden. Diese Angaben wurden
