@@ -44,12 +44,14 @@ als Veröffentlichungsquelle **GitHub Actions**. Nach einem erfolgreichen Lauf z
 der Workflow die veröffentlichte URL an. Verfügbarkeit und Kosten hängen von
 Repository-Sichtbarkeit und GitHub-Tarif ab.
 
-Die offizielle Website ist
-<https://nikolausnold.github.io/NIKNOLIG/>. Die Android-App verlinkt dorthin;
-die Website kann eine installierte App öffnen. App-Downloads werden ausschließlich
-auf der jeweils zugehörigen offiziellen Website angeboten. Für NIKNOLIG ist derzeit
-keine signierte Release-APK verfügbar, daher wird die Vorschau-App nicht zum
-Download bereitgestellt.
+Die NIKNOLIG-Hauptwebsite ist
+<https://nikolausnold.github.io/NIKNOLIG/>; diese Defense-Website ist unter
+<https://nikolausnold.github.io/NIKNOLIG-Defense-Website-/> erreichbar. Beide
+Websites sollen sichtbar aufeinander verweisen. Die Android-App verlinkt zur
+NIKNOLIG-Hauptwebsite; diese Defense-Website kann eine installierte App öffnen.
+App-Downloads werden ausschließlich auf der jeweils zugehörigen offiziellen Website
+angeboten. Für NIKNOLIG ist derzeit keine signierte Release-APK verfügbar, daher
+wird die Vorschau-App nicht zum Download bereitgestellt.
 
 Vor einer öffentlichen Veröffentlichung müssen die rechtlich erforderlichen
 Betreiber- und Datenschutzangaben ergänzt und geprüft werden. Diese Angaben wurden
