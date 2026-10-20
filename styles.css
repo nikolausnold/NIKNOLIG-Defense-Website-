@@ -445,6 +445,18 @@ h2 {
     color: var(--accent);
 }
 
+.project-status-link {
+    color: var(--accent);
+}
+
+.project-status-link:hover {
+    color: #d8ff87;
+}
+
+.project-status-link span {
+    margin-left: 3px;
+}
+
 .principles-heading {
     display: flex;
     align-items: end;
