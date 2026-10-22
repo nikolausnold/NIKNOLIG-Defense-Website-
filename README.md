@@ -38,8 +38,9 @@ einen Build-Schritt noch externe JavaScript-Bibliotheken. Für günstiges Hostin
 GitHub Pages verwendet werden. Der Workflow
 [`Deploy website`](https://github.com/nikolausnold/NIKNOLIG/actions/workflows/deploy-website.yml)
 veröffentlicht bei Änderungen an der Website auf `main` nur `index.html` und
-`styles.css`; ein manueller Start ist ebenfalls möglich. Aktiviere unter
-[Repository-Einstellungen → Pages](https://github.com/nikolausnold/NIKNOLIG/settings/pages)
+`styles.css` sowie `assets/niknolig-mark.svg`; ein manueller Start ist ebenfalls
+möglich. Aktiviere unter
+[Repository-Einstellungen → Pages](https://github.com/nikolausnold/NIKNOLIG-Defense-Website-/settings/pages)
 als Veröffentlichungsquelle **GitHub Actions**. Nach einem erfolgreichen Lauf zeigt
 der Workflow die veröffentlichte URL an. Verfügbarkeit und Kosten hängen von
 Repository-Sichtbarkeit und GitHub-Tarif ab.
